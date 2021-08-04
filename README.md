@@ -16,3 +16,6 @@ A dual channel combined ammeter and voltmeter using two 4 channel differential 1
   * Logger Status
 
 
+
+## Menu System:
+https://github.com/BertyBasset/Arduino-Nano-Dual-Multimeter/blob/main/resources/Menu.png

@@ -8,7 +8,11 @@ A dual channel combined ammeter and voltmeter using two 4 channel differential 1
 * Current sense resistors for current measurements
 * SD card data logging - with configurable log parameters
 * Max 20 samples /s
-* 2 push button UI input
+* 2 push button UI input with push and hold events for menu navigation
 * 'Standard' 2x16 LCD display UI output
+* 'Virtual' screen functionality for
+** Meter Display
+** SD Card Status
+** Logger Status
 
 

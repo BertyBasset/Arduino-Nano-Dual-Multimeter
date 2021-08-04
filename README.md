@@ -20,3 +20,5 @@ A dual channel combined ammeter and voltmeter using two 4 channel differential 1
 ## Menu System:
 ![GitHub Logo](/resources/Menu.png)
 
+## Schematic
+

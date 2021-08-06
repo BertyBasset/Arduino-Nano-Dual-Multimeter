@@ -18,9 +18,11 @@ A dual channel combined ammeter and voltmeter for Arduino Every using two 4 chan
   * SD Card Status
   * Logger Status
 
+## Schematic:
+![GitHub Logo](/resources/Schematic.png)
+
 ## Menu System:
 ![GitHub Logo](/resources/MenuSystem.png)
 
-
-## Schematic:
-![GitHub Logo](/resources/Schematic.png)
+## Logger Settings:
+![GitHub Logo](/resources/Logger.png)

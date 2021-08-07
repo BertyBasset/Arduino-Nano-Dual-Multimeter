@@ -34,7 +34,7 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
 ### Mode: Logger Settings
 ![GitHub Logo](/resources/Mode_LoggerSettings.png)
 
-Display Modes are maintained via 'virtual' displays. Virtual displays can be written to and viewed independently. For instance, a logging session can write to a virtual logger display, whilst a meter display is being displayed in real time. The virtual displays are implemented by Vdisplay.cpp/h and use dynamic memory allocation so that virtual displays can be added and removed dynamically.
+Display Modes are maintained via 'virtual' displays. Virtual displays can be written to and viewed independently. For instance, a logging session can write to a virtual logger display, whilst a meter display is being displayed in real time. The virtual displays are implemented by Vdisplay.cpp/h and use dynamic memory allocation so that virtual displays can be created and removed dynamically.
 
 
 ## Logger Settings:

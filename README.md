@@ -16,6 +16,7 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
   * Meter Display
   * SD Card Status
   * Logger Status
+  * Logger Settings
 
 ## Schematic:
 ![GitHub Logo](/resources/Schematic.png)

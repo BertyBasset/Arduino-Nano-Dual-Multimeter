@@ -5,7 +5,6 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
 ![GitHub Logo](/resources/Meter.png)
 
 ## Features:
-* Uses Arduino Every flavour of Arduino Nano
 * 2 channel differential inputs, both measuring Voltage and Current (positive and negative)
 * Relay for auto switching between 5V and 25V voltage ranges
 * Current sense resistors for current measurements

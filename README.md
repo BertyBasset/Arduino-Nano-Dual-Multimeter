@@ -1,5 +1,5 @@
-# Arduino Nano Every Dual Channel Multimeter
-A dual channel combined ammeter and voltmeter for Arduino Every using two 4 channel differential 16 bit I2C modules - ADS1115.
+# *Arduino Nano Every* Dual Channel Multimeter
+A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two 4 channel differential 16 bit I2C modules - ADS1115.
 
 
 ![GitHub Logo](/resources/Meter.png)

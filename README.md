@@ -30,7 +30,7 @@ A dual channel combined ammeter and voltmeter for Arduino Every using two 4 chan
 ### SD Status
 ![GitHub Logo](/resources/Mode_SD.png)
 ### Logger Status
-
+![GitHub Logo](/resources/Mode_Logger.png)
 ### Logger Settings
 
 

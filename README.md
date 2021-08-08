@@ -39,3 +39,8 @@ Display Modes are maintained via 'virtual' displays. Virtual displays can be wri
 
 ## Logger Settings:
 ![GitHub Logo](/resources/LoggerSettings.png)
+
+## To Do:
+* Implement One-shot functionality
+* General code tidy
+* Tidy floating voltage detection to stop relay 'chatter'

@@ -44,3 +44,4 @@ Display Modes are maintained via 'virtual' displays. Virtual displays can be wri
 * Implement One-shot functionality
 * General code tidy
 * Tidy floating voltage detection to stop relay 'chatter'
+* Meter screen - only refresh display about twice /second

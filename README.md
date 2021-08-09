@@ -18,6 +18,13 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
   * Logger Status
   * Logger Settings
 
+## Simultaneous Voltage and Current Measurement
+To measure I vs V, or power dissipation in a component or module, wire one channel up thus:
+
+## Voltage Autoranging
+The ADCs have 5V max differential voltage input. To extend this range to 25V, we use a relay to switch in a 2:1:2 potentiometer:
+
+
 ## Schematic:
 ![GitHub Logo](/resources/Schematic.png)
 
@@ -36,12 +43,8 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
 
 Display Modes are maintained via 'virtual' displays. Virtual displays can be written to and viewed independently. For instance, a logging session can write to a virtual logger display, whilst a meter display is being displayed in real time. The virtual displays are implemented by Vdisplay.cpp/h and use dynamic memory allocation so that virtual displays can be created and removed at run-time.
 
-
 ## Logger Settings:
 ![GitHub Logo](/resources/LoggerSettings.png)
-
-## Multimeter Classes:
-
 
 ## To Do:
 * Implement One-shot functionality

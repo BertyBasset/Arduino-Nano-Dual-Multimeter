@@ -20,6 +20,7 @@ A dual channel combined ammeter and voltmeter for *Arduino Nano Every* using two
 
 ## Simultaneous Voltage and Current Measurement
 To measure I vs V, or power dissipation in a component or module, wire one channel up thus:
+![GitHub Logo](/resources/IV Measurement.png)
 
 ## Voltage Autoranging
 The ADCs have 5V max differential voltage input. To extend this range to 25V, we use a relay to switch in a 2:1:2 potentiometer:

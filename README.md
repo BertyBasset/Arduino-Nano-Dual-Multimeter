@@ -40,6 +40,9 @@ Display Modes are maintained via 'virtual' displays. Virtual displays can be wri
 ## Logger Settings:
 ![GitHub Logo](/resources/LoggerSettings.png)
 
+## Multimeter Classes:
+
+
 ## To Do:
 * Implement One-shot functionality
 * General code tidy

@@ -23,7 +23,7 @@ To measure I vs V, or power dissipation in a component or module, wire one chann
 ![GitHub Logo](/resources/IVMeasurement.png)
 
 ## Voltage Autoranging
-The ADCs have 5V max differential voltage input. To extend this range to 25V, we use a relay to switch in a 2:1:2 potentiometer. Note: When in 25V mode, .5mA is dissipated in the potentiometer.
+The ADCs have 5V max differential voltage input. To extend this range to 25V, we use a relay to switch in a 2:1:2 potentiometer. Note: When in 25V mode, 0.5mA is dissipated in the potentiometer.
 ![GitHub Logo](/resources/PotDiv.png)
 
 ## Schematic:
